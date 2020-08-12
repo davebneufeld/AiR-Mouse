@@ -1,3 +1,5 @@
+Note: this is a clone of an original repository by roeticvampire. Please go check out that as the original code. This is just a copy for me to play around with.
+
 # AiR-Mouse
 ![Air Mouse Logo](https://github.com/roeticvampire/AiR-Mouse/blob/master/AirMousePhone-compressed.jpg)
 ## Summary
